@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/67656229/231989130-452bdc96-4fb3-4129-91d6-1c2fb1e8ce90.gif)](https://ekrajghimire.com.np)
 <h1 align="center">Hi 👋, I'm Ekraj Ghimire</h1>
 <h3 align="center">Web/App Developer | UI/UX Designer | Graphics Designer</h3>
 <img align=“right” alt=“CodingEkrajGhimire” width=“400” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
@@ -9,11 +8,11 @@
 
 - 🌱 I’m currently learning **Flutter**
 
+- 💬 Ask me about **HTML 5, CSS 3, Tailwind CSS, JS, Bootstrap, WordPress, Flutter, Node.js**
+
 - 👨‍💻 All of my projects are available at [www.ekrajghimire.com.np](www.ekrajghimire.com.np)
 
 - 📝 I regularly write articles on [www.blog.ekrajghimire.com.np](www.blog.ekrajghimire.com.np)
-
-- 💬 Ask me about **HTML 5, CSS 3, Tailwind CSS, JS, Bootstrap, WordPress, Flutter, Node.js**
 
 - 📫 How to reach me **contact@ekrajghimire.com.np**
 
@@ -41,7 +40,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekrajghimire&show_icons=true&locale=en" alt="ekrajghimire" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ekrajghimire&" alt="ekrajghimire" /></p>
-
 
 <!--
 **ekrajghimire/ekrajghimire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
