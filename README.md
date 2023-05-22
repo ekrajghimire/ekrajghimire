@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/ekrajghimire/ekrajghimire/blob/main/GitHub%20Banner.jpg)](https://ekrajghimire.com.np)
 <h1 align="center">Hi 👋, I'm Ekraj Ghimire</h1>
 <h3 align="center">Web/App Developer | UI/UX Designer | Graphics Designer</h3>
 <!-- <img align=“right” alt=“CodingEkrajGhimire” width=“400” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”> -->
