@@ -43,6 +43,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ekrajghimire&" alt="ekrajghimire" /></p>
 
+[![An image of @manishgofficial's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manishgofficial)](https://holopin.io/@manishgofficial)
+
 <!--
 **ekrajghimire/ekrajghimire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
