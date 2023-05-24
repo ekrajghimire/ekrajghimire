@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **contact@ekrajghimire.com.np**
 
-- ⚡ Fun fact: I Love travelling 🏔
+- ⚡ Fun fact: **I Love travelling 🏔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
