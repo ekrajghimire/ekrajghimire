@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [www.blog.ekrajghimire.com.np](www.blog.ekrajghimire.com.np)
 
-- 📫 How to reach me **contact@ekrajghimire.com.np**
+- 📫 How to reach me **contact.ekrajghimire@gmail.com**
 
 - ⚡ Fun fact: **I Love travelling 🏔**
 
